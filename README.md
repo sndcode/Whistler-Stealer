@@ -1,5 +1,9 @@
 # Whistler
 Pure C# PROOF OF CONCEPT Stealer that sends logs to PHP script that stores as txt
+DO NOT USE THIS POC SOFTWARE IN LIVE SYSTEMS!! I am not responsible for any damage or
+illegal acivities you start with this !! 
+Also i want to make clear i am NOT a blackhat. 
+
 
 # Features
 - Get chromium based browser logins (Chrome, Edge, FireFox, Brave etc)
