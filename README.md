@@ -46,4 +46,8 @@ Now the full way to use this framework :
 - BUG - Stealer wont upload on windows 7 - FIXED - Setting SSL configs before uploading for SSL servers
 
 
-
+# Credits / Shoutouts
+- Echelon Stealer
+- Infected-Forums
+- Github
+- Splamy
