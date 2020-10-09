@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Express 15 for Windows Desktop
-VisualStudioVersion = 15.0.28010.2003
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whistler", "W2\Whistler.csproj", "{E7F29462-D1E0-4821-A945-198AE9A90A33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WhistlerDecoder", "..\Decoder\WhistlerDecoder\WhistlerDecoder.csproj", "{0E4EC9E3-A1BA-41A4-A71C-261D9EAEECBF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E7F29462-D1E0-4821-A945-198AE9A90A33}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7F29462-D1E0-4821-A945-198AE9A90A33}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7F29462-D1E0-4821-A945-198AE9A90A33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4EC9E3-A1BA-41A4-A71C-261D9EAEECBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4EC9E3-A1BA-41A4-A71C-261D9EAEECBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4EC9E3-A1BA-41A4-A71C-261D9EAEECBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4EC9E3-A1BA-41A4-A71C-261D9EAEECBF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

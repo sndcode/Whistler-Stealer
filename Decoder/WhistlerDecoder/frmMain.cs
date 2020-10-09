@@ -108,5 +108,12 @@ namespace WhistlerDecoder
             string contents = System.IO.File.ReadAllText(fullfilepath);
             richTextBox1.Text = contents;
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            string input = richTextBox1.Text;
+            string output = Lambda.Encode(input, 8521);
+            richTextBox1.Text = output;
+        }
     }
 }
