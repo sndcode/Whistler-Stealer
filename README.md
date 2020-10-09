@@ -43,6 +43,7 @@ Now the full way to use this framework :
 - TODO - Add batch decoding of entire folders of logs to the Decoder
 - TODO - Add Webpanel to preview logs (how to decode in PHP)
 - BUG - Stealer maybe wont upload logs when the OS is using a systemproxy ?
+- BUG - Stealer wont upload on windows 7 - FIXED - Setting SSL configs before uploading for SSL servers
 
 
 
