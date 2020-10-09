@@ -37,12 +37,12 @@ Now the full way to use this framework :
 8. Done :) You can now use the stealer and logs are getting saved to the logs folder you uploaded to the webspace.
 
 # TODO list / known bugs 
-TODO - Make the code FUD
-TODO - Add more encryption to the traffic
-TODO - Add dynamic URL / IP Check for server finding after a defined pattern so the stealer will upload logs to any server matching the pattern when one server goes offline
-TODO - Add batch decoding of entire folders of logs to the Decoder
-TODO - Add Webpanel to preview logs (how to decode in PHP)
-BUG - Stealer maybe wont upload logs when the OS is using a systemproxy ?
+- TODO - Make the code FUD
+- TODO - Add more encryption to the traffic
+- TODO - Add dynamic URL / IP Check for server finding after a defined pattern so the stealer will upload logs to any server matching the pattern when one server goes offline
+- TODO - Add batch decoding of entire folders of logs to the Decoder
+- TODO - Add Webpanel to preview logs (how to decode in PHP)
+- BUG - Stealer maybe wont upload logs when the OS is using a systemproxy ?
 
 
 
