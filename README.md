@@ -6,6 +6,7 @@ Also i want to make clear i am NOT a blackhat.
 
 
 # Features
+- USB Spreading (Experimental, 2 Methods)
 - Get chromium based browser logins (Chrome, Edge, FireFox, Brave etc)
 - Get FileZilla logins (when there was no masterpassword)
 - Get some CDKeys from games
